@@ -1,0 +1,96 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+
+  ROLLDOWN-VITE v7.1.13  ready in 495 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.112.138.160:5173/
+8:29:10 PM [vite] (client) page reload index.html
+8:29:10 PM [vite] changed tsconfig file detected: /app/webapp/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+8:29:10 PM [vite] vite.config.ts changed, restarting server...
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+8:29:10 PM [vite] server restarted.
+8:29:18 PM [vite] (client) ✨ new dependencies optimized: shaders/react
+8:29:18 PM [vite] (client) ✨ optimized dependencies changed. reloading
+8:29:21 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] changed tsconfig file detected: /app/webapp/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+8:44:40 PM [vite] (client) page reload index.html
+8:44:40 PM [vite] (client) hmr update /src/App.tsx, /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/custom-cursor.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/grain-overlay.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/magnetic-button.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/sections/about-section.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/sections/contact-section.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/sections/services-section.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/sections/work-section.tsx
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/components/ui/sonner.tsx, /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css, /src/components/ui/toast.tsx
+8:44:40 PM [vite] (client) hmr update /src/components/ui/toaster.tsx, /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/components/ui/tooltip.tsx, /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) page reload src/hooks/use-reveal.ts
+8:44:40 PM [vite] (client) page reload src/hooks/use-toast.ts
+8:44:40 PM [vite] (client) hmr update /src/index.css
+8:44:40 PM [vite] (client) page reload src/lib/utils.ts
+8:44:40 PM [vite] (client) page reload src/main.tsx
+8:44:40 PM [vite] (client) page reload src/pages/Index.tsx
+8:44:40 PM [vite] (client) page reload src/pages/NotFound.tsx
+8:44:40 PM [vite] (client) page reload src/vite-env.d.ts
+8:44:40 PM [vite] (client) page reload tailwind.config.ts
+8:44:40 PM [vite] vite.config.ts changed, restarting server...
+8:44:40 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+8:50:13 PM [vite] (client) page reload index.html
+8:50:13 PM [vite] (client) page reload index.html
+8:50:24 PM [vite] (client) page reload index.html
