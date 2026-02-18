@@ -1,0 +1,676 @@
+Uri: https://cdn.jsdelivr.net/gh/mgalante/jquery.redirect@master/jquery.redirect.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\gh\mgalante\jquery.redirect@master\jquery.redirect.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\npm\bootstrap@4.0.0\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\npm\jquery-validation@1.19.3\dist\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\npm\popper.js@1.12.9\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/intlTelInput-jquery.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\ajax\libs\intl-tel-input\17.0.19\js\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\limmercoin.me\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\limmercoin.me\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://limmercoin.me/
+File Name: C:\Downloaded Web Sites\limmercoin.me\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/assets/about-bg.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\about-bg.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/about-half-1.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\about-half-1.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/about-half-2.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\about-half-2.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/bg-image-1.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\bg-image-1.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/bg-image-2.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\bg-image-2.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/bg-image-3.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\bg-image-3.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/bg-image-4.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\bg-image-4.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/bg-image-5.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\bg-image-5.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/flags.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\flags.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/flags@2x.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\flags@2x.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-1.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-1.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-2.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-2.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-3.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-3.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-4.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-4.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-5.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-5.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-6.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-6.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-7.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-7.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/half-8.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\half-8.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/learn/section-bg.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\learn\section-bg.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/login-bg.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\login-bg.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/login-half-1.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\login-half-1.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/main-bg.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\main-bg.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/quote-box.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\quote-box.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/assets/thankyou/thankyou.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\assets\thankyou\thankyou.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/br/
+File Name: C:\Downloaded Web Sites\limmercoin.me\br\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/br/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\br\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/br/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\br\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/br/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\br\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/cookie-policy/
+File Name: C:\Downloaded Web Sites\limmercoin.me\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/cs/
+File Name: C:\Downloaded Web Sites\limmercoin.me\cs\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/cs/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\cs\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/cs/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\cs\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/cs/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\cs\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/da/
+File Name: C:\Downloaded Web Sites\limmercoin.me\da\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/da/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\da\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/da/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\da\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/da/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\da\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/de/
+File Name: C:\Downloaded Web Sites\limmercoin.me\de\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/de/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\de\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/de/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\de\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/de/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\de\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/es/
+File Name: C:\Downloaded Web Sites\limmercoin.me\es\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/es/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\es\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/es/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\es\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/es/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\es\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/favicon-128x128.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-128x128.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-192x192.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-192x192.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-228x228.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-228x228.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-48x48.ico
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-48x48.ico
+Content Type: image/x-icon
+
+Uri: https://limmercoin.me/favicon-48x48.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-48x48.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-512x512.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-512x512.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-57x57.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-57x57.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-76x76.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-76x76.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\limmercoin.me\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://limmercoin.me/fi/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fi\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fi/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fi\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fi/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fi\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fi/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fi\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fr/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fr\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fr/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fr\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fr/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fr\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/fr/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\fr\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/hu/
+File Name: C:\Downloaded Web Sites\limmercoin.me\hu\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/hu/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\hu\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/hu/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\hu\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/hu/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\hu\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/imgs/flags/br.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\br.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/cs.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\cs.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/da.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\da.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/de.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\de.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/en.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\en.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/es.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\es.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/fi.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\fi.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/fr.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\fr.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/hu.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\hu.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/it.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\it.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/ja.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\ja.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/ko.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\ko.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/nl.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\nl.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/no.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\no.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/pl.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\pl.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/ro.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\ro.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/sk.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\sk.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/sl.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\sl.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/sv.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\sv.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/flags/tr.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\flags\tr.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/form/check-icon.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\form\check-icon.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/imgs/logo.webp
+File Name: C:\Downloaded Web Sites\limmercoin.me\imgs\logo.webp
+Content Type: image/webp
+
+Uri: https://limmercoin.me/it/
+File Name: C:\Downloaded Web Sites\limmercoin.me\it\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/it/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\it\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/it/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\it\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/it/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\it\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ja/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ja\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ja/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ja\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ja/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ja\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ja/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ja\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/js/api.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\js\api.js
+Content Type: application/javascript
+
+Uri: https://limmercoin.me/js/validator.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\js\validator.js
+Content Type: application/javascript
+
+Uri: https://limmercoin.me/ko/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ko\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ko/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ko\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ko/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ko\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ko/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ko\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/main.js
+File Name: C:\Downloaded Web Sites\limmercoin.me\main.js
+Content Type: application/javascript
+
+Uri: https://limmercoin.me/nl/
+File Name: C:\Downloaded Web Sites\limmercoin.me\nl\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/nl/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\nl\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/nl/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\nl\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/nl/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\nl\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/no/
+File Name: C:\Downloaded Web Sites\limmercoin.me\no\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/no/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\no\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/no/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\no\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/no/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\no\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/pl/
+File Name: C:\Downloaded Web Sites\limmercoin.me\pl\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/pl/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\pl\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/pl/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\pl\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/pl/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\pl\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/privacy-policy/
+File Name: C:\Downloaded Web Sites\limmercoin.me\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ro/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ro\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ro/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ro\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ro/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ro\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/ro/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\ro\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sk/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sk\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sk/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sk\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sk/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sk\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sk/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sk\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sl/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sl\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sl/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sl\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sl/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sl\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sl/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sl\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/styles/main.css
+File Name: C:\Downloaded Web Sites\limmercoin.me\styles\main.css
+Content Type: text/css
+
+Uri: https://limmercoin.me/sv/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sv\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sv/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sv\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sv/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sv\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/sv/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\sv\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/terms/
+File Name: C:\Downloaded Web Sites\limmercoin.me\terms\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/tr/
+File Name: C:\Downloaded Web Sites\limmercoin.me\tr\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/tr/about/
+File Name: C:\Downloaded Web Sites\limmercoin.me\tr\about\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/tr/contact/
+File Name: C:\Downloaded Web Sites\limmercoin.me\tr\contact\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/tr/login/
+File Name: C:\Downloaded Web Sites\limmercoin.me\tr\login\index.htm
+Content Type: text/html
+
+Uri: https://limmercoin.me/web-app-manifest.json
+File Name: C:\Downloaded Web Sites\limmercoin.me\web-app-manifest.json
+Content Type: application/json
+
